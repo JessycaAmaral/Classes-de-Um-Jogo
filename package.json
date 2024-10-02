@@ -1,0 +1,10 @@
+{ 
+  
+  "dependencies": {
+
+    "_comment": "Especifica a biblioteca readline-sync como uma dependência do projeto",
+
+    "readline-sync": "^1.4.10"
+  }
+}
+
